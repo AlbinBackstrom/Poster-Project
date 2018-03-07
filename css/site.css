@@ -1,0 +1,124 @@
+body {
+    background-color: #DD5700;
+}
+
+.btn-custom-search {
+    width: 200px;
+}
+
+.multiple-borders {
+    box-shadow: 0px 0px 0px 5px #000, 0px 0px 0px 10px #fff;
+}
+
+.form-show {
+    float: right;
+}
+
+.posters {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    /border: 1px solid black;
+}
+
+.btn-del {
+    margin-left: 395px;
+    position: absolute;
+    margin-top: -60px;
+}
+
+.title-poster {
+    padding-bottom: 6px;
+
+}
+
+iframe {
+    float: right;
+    height: 448.8px;
+    width: 790px;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+fieldset.scheduler-border {
+    border: 7px double #000 !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #000;
+    box-shadow: 0px 0px 0px 0px #000;
+}
+
+legend.scheduler-border {
+    font-size: 1.5em !important;
+    font-weight: bold !important;
+/ text-align: center !important;
+    text-align: justify;
+    width: auto;
+    padding: 0 10px;
+    border-bottom: none;
+}
+
+.movie-title {
+    font-size: 31px;
+    color: #000;
+    text-align: center;
+}
+
+.plot {
+    font-size: 19px;
+    padding-top: 1.4em;
+    text-align: justify
+}
+
+.poster {
+    width: 400px;
+    height: auto;
+
+}
+
+.movie-down {
+    margin-top: 50px;
+}
+
+.plot a {
+    color: black;
+    text-decoration: underline;
+}
+
+.fieldset-down {
+    margin-top: 20px;
+}
+
+.righ-allign {
+    margin-right: 25px;
+}
+
+.navbar {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 21px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
+
+.main-body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+    height: auto;
+/ border: 1 px solid black;
+/ color: red;
+/ background-color: #E2D9CC;
+}
+
+.grey-area {
+    background-color: #100538;
+    width: auto;
+    height: 70px;
+}
+
+
+
